@@ -30,17 +30,14 @@ A sleek and fully responsive Login / Sign Up page built using **HTML**, **CSS**,
 
 📂 Usage
 
-
-git clone https://github.com/mrshy3475/responsive-login-page.git. 
-
-cd responsive-login-page.
-
-Open index.html in your browser.
+-git clone https://github.com/mrshy3475/responsive-login-page.git. 
+-cd responsive-login-page.
+-Open index.html in your browser.
 
 ---
 
 🙋‍♂️ About Me
-Mohammed Shaheem PS
+Mohammed Shaheem PS     
 🎓 Computer Science Engineering Student
 📧 mshy8147@gmail.com
 🔗 https://www.linkedin.com/in/mohammed-shaheem-ps-904553308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
