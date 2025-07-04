@@ -31,8 +31,10 @@ A sleek and fully responsive Login / Sign Up page built using **HTML**, **CSS**,
 📂 Usage
 
 
-git clone https://github.com/mrshy3475/responsive-login-page.git.
+git clone https://github.com/mrshy3475/responsive-login-page.git. 
+
 cd responsive-login-page.
+
 Open index.html in your browser.
 
 ---
