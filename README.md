@@ -34,14 +34,14 @@ Switch between Sign In and Sign Up forms with smooth transitions. Fully responsi
 
 ## 📂 Usage
 
-
-git clone https://github.com/mrshy3475/responsive-login-page.git
-cd responsive-login-page
-Open index.html in your browser
+- git clone https://github.com/mrshy3475/responsive-login-page.git
+- cd responsive-login-page
+- Open index.html in your browser
 
 ---
 
 ## 🙋‍♂️ About Me
+
 Mohammed Shaheem PS     
 🎓 Computer Science Engineering Student
 📧 mshy8147@gmail.com
