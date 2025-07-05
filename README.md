@@ -17,7 +17,7 @@ Switch between Sign In and Sign Up forms with smooth transitions. Fully responsi
 
 ---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 - HTML
 - CSS
@@ -26,7 +26,7 @@ Switch between Sign In and Sign Up forms with smooth transitions. Fully responsi
 
 ---
 
-📱 Live Demo
+## 📱 Live Demo
 
 👉 [Click to view the live site](https://mrshy3475.github.io/responsive-login-page/)
 
