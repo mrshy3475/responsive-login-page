@@ -43,6 +43,6 @@ Switch between Sign In and Sign Up forms with smooth transitions. Fully responsi
 ## 🙋‍♂️ About Me
 
 Mohammed Shaheem PS     
-🎓 Computer Science Engineering Student
-📧 mshy8147@gmail.com
+🎓 Computer Science Engineering Student 
+📧 mshy8147@gmail.com 
 🔗 https://www.linkedin.com/in/mohammed-shaheem-ps-904553308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
