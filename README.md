@@ -1,15 +1,19 @@
-Responsive Login Page
+# 🔐 Responsive Login Page
 
-A sleek and fully responsive Login / Sign Up page built using **HTML**, **CSS**, and **JavaScript**.
+A modern, clean, and responsive login/signup UI built using **HTML**, **CSS**, and **JavaScript**.  
+Switch between Sign In and Sign Up forms with smooth transitions. Fully responsive and mobile-friendly.
+
 ---
 
-🚀 Features
+## 🚀 Features
 
-- Responsive Design (Mobile-Friendly)
-- Sign In / Sign Up Toggle Forms
-- Password Show/Hide Icons
-- Social Icons (Google, Facebook, GitHub, LinkedIn)
-- Eye-candy UI and clean layout
+- Responsive design for all screen sizes  
+- Sign In and Sign Up forms with smooth toggle  
+- Show/hide password functionality  
+- Password match validation  
+- Terms & Conditions checkbox  
+- Social media login buttons (non-functional)  
+- Mobile-friendly layout and design  
 
 ---
 
@@ -28,15 +32,16 @@ A sleek and fully responsive Login / Sign Up page built using **HTML**, **CSS**,
 
 ---
 
-📂 Usage
+## 📂 Usage
 
--git clone https://github.com/mrshy3475/responsive-login-page.git. 
--cd responsive-login-page.
--Open index.html in your browser.
+
+git clone https://github.com/mrshy3475/responsive-login-page.git
+cd responsive-login-page
+Open index.html in your browser
 
 ---
 
-🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 Mohammed Shaheem PS     
 🎓 Computer Science Engineering Student
 📧 mshy8147@gmail.com
