@@ -12,7 +12,6 @@ window.addEventListener("DOMContentLoaded", () => {
         container.classList.remove("active");
     });
 
-    // INPUTS
     const loginPassword = document.getElementById("login-password");
     const password = document.getElementById("signup-password");
     const confirmPassword = document.getElementById("confirm-password");
@@ -20,43 +19,32 @@ window.addEventListener("DOMContentLoaded", () => {
     const checkbox = document.getElementById("terms-checkbox");
     const signupBtn = document.getElementById("signup-btn");
 
-    // PASSWORD MATCH CHECK
+    // Password match check
     confirmPassword.addEventListener("input", () => {
-        if (password.value !== confirmPassword.value) {
-            warning.style.visibility = "visible";
-        } else {
-            warning.style.visibility = "hidden";
-        }
+        warning.style.visibility =
+            password.value !== confirmPassword.value ? "visible" : "hidden";
     });
 
-    // ENABLE SIGNUP BUTTON ONLY IF TERMS ACCEPTED
+    // Enable signup only if terms accepted
     checkbox.addEventListener("change", () => {
         signupBtn.disabled = !checkbox.checked;
     });
-
     signupBtn.disabled = true;
 
-    // TOGGLE PASSWORD VISIBILITY
-    const toggleLoginPassword = document.getElementById("toggleLoginPassword");
-    const togglePassword = document.getElementById("togglePassword");
-    const toggleConfirmPassword = document.getElementById("toggleConfirmPassword");
-
-    toggleLoginPassword.addEventListener("click", () => {
-        const type = loginPassword.type === "password" ? "text" : "password";
-        loginPassword.type = type;
-        toggleLoginPassword.classList.toggle("fa-eye-slash");
+    // Toggle password visibility
+    document.getElementById("toggleLoginPassword").addEventListener("click", () => {
+        loginPassword.type =
+            loginPassword.type === "password" ? "text" : "password";
     });
 
-    togglePassword.addEventListener("click", () => {
-        const type = password.type === "password" ? "text" : "password";
-        password.type = type;
-        togglePassword.classList.toggle("fa-eye-slash");
+    document.getElementById("togglePassword").addEventListener("click", () => {
+        password.type =
+            password.type === "password" ? "text" : "password";
     });
 
-    toggleConfirmPassword.addEventListener("click", () => {
-        const type = confirmPassword.type === "password" ? "text" : "password";
-        confirmPassword.type = type;
-        toggleConfirmPassword.classList.toggle("fa-eye-slash");
+    document.getElementById("toggleConfirmPassword").addEventListener("click", () => {
+        confirmPassword.type =
+            confirmPassword.type === "password" ? "text" : "password";
     });
 
 });
